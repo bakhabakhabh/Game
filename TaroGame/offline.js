@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1661759586,
+	"version": 1662090297,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -76,6 +76,7 @@
 		"images/pause1-sheet0.png",
 		"images/bgend1-sheet0.png",
 		"images/devilrat-sheet0.png",
+		"images/level0-sheet0.png",
 		"media/children_s-music-—-cooking-_instrumental-music-for-kids_.m4a",
 		"media/children_s-music-—-cooking-_instrumental-music-for-kids_.ogg",
 		"media/clap.m4a",
